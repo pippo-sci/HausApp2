@@ -11,47 +11,61 @@
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-  }
-  .text {
+}
+
+.text {
     background-color: white;
     color: black;
     font-weight: bold;
     margin: 0 auto; /* Center the text container */
     padding: 10px;
-    width: 20%;
+    width: fit-content;
     mix-blend-mode: screen; /* This makes the cutout text possible */
     transform: translate(0%, 40%);
-  }
+}
   
-  .text2 {
-      padding: 80px 0;
-      
-  }
-  .clearfix {
+.text2 {
+    padding: 80px 0;
+}
+
+.dropdownsty {
+    width: 70%;
+    margin : 12px;
+    color : black;
+}
+
+.clearfix {
     overflow: auto;
     height: 60px;
     transform: translate(0%, 40%);
-  }
+}
 
-  
-.color1{
+.color1 {
       background-color: #0E3248;
       color: #fff;
-    }
+}
     
-.color2{
+.color2 {
         background-color: #E6507C;
         color: #fff;
-    }
-.color3{
+}
+
+.color3 {
         background-color: #55DABE;
         color: #fff;
-    }
-.color4{
+}
+
+.color4 {
         background-color: #4791C2;
         color: #fff;
-    }
-.color5{
+}
+
+.color5 {
       background-color: #f2c924;
       color: #fff;
-  }
+}
+
+.color6 {
+    background-color: #992E86;
+    color: #fff;
+}
