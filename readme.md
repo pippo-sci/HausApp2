@@ -10,7 +10,7 @@ The original stack used on the webapp parte Bokeh for the graphs, Flask for the 
 
 The project use multiple free to use tools on the cloud for each architecural component
 
-![architecture](static\hausApp.drawio.png)
+![architecture](static/hausApp.drawio.png)
 
 #### Data extraction
 Scrapy for data scrapping and Zyte for scheduling jobs
